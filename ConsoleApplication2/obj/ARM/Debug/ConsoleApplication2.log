@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '10.46.40.140'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  ConsoleApplication2.vcxproj -> C:\Users\hwu\source\repos\ConsoleApplication2\ConsoleApplication2\bin\ARM\Debug\ConsoleApplication2.out
